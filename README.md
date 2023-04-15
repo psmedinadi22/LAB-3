@@ -1,10 +1,10 @@
-# robotics-abbIRB140-IO
+# Laboratory 2 - Industrial Robotics, Inputs and Outputs
 Repositoty for practices with an industrial robot model ABB IRB140 using Digital Inputs &amp; Digital Outputs.
 
 > ## Contributors
 > 
 > - [Camilo Andrés Borda Gil](https://github.com/Canborda) (caabordagi@unal.edu.co)
-> - [Paula Sofía Medina Diaz[(https://github.com/psmedinadi22) (psmedinadi@unal.edu.co)
+> - [Paula Sofía Medina Diaz](https://github.com/psmedinadi22) (psmedinadi@unal.edu.co)
 > - Robinson Jair Orduxz Gomez (rjorduzg@unal.edu.co)
 
 ---
